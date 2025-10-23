@@ -1,5 +1,8 @@
 This is the classic board game backgammon. I made it using purely Java in the winter of 2023-2024. It was fun piecing together concepts into each component of the game, such as using nested arrays to store the number of pieces and color of those pieces on each space, and implementing User Experience (UX) features like the green boxes (options) that display the possible locations that the piece that the user just clicked can be moved to. Identifying the source of certain bugs was a challenge, and it was quite tedious trying to get them out of the way.
 
+#DEMO VIDEO
+https://github.com/user-attachments/assets/543d2abe-171c-47a8-b7e7-4af25f3d40ee
+
 # HOW TO RUN: 
 
 ## VSCODE:
